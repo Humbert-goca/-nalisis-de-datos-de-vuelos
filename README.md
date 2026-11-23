@@ -2,11 +2,19 @@
 
 # Etapa 1: Selección del conjunto de datos
 
-**Tema:** Retrasos y cancelaciones de vuelos comerciales en Estados Unidos
+**Tema:** 
 
-**Equipo:** Humberto Gómez Calderon, Giovanna del Rosario Rodríguez Carrillo
+Retrasos y cancelaciones de vuelos comerciales en Estados Unidos
 
-**Organización / repositorio:** https://www.bts.gov
+**Equipo:**
+
+Humberto Gómez Calderon,
+
+Giovanna del Rosario Rodríguez Carrillo
+
+**Organización / repositorio:** 
+
+https://www.bts.gov
 
 https://github.com/Humbert-goca/-nalisis-de-datos-de-vuelos
 
