@@ -5,7 +5,7 @@
 
 ```
 .
-├── data/                       # CSV original (NO se versiona, ver .gitignore)
+├── data/                       
 ├── scripts/
 │   └── 01_cargar_staging.py
 ├── sql/
