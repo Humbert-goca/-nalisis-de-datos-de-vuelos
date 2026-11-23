@@ -6,7 +6,9 @@
 
 **Equipo:** Humberto Gómez Calderon, Giovanna del Rosario Rodríguez Carrillo
 
-**Organización / repositorio:** https://www.bts.gov| https://github.com/Humbert-goca/-nalisis-de-datos-de-vuelos
+**Organización / repositorio:** https://www.bts.gov
+
+https://github.com/Humbert-goca/-nalisis-de-datos-de-vuelos
 
 ---
 
