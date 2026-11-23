@@ -3,7 +3,9 @@
 # Etapa 1: Selección del conjunto de datos
 
 **Tema:** Retrasos y cancelaciones de vuelos comerciales en Estados Unidos
+
 **Equipo:** Humberto Gómez Calderon, Giovanna del Rosario Rodríguez Carrillo
+
 **Organización / repositorio:** https://www.bts.gov| https://github.com/Humbert-goca/-nalisis-de-datos-de-vuelos
 
 ---
@@ -53,7 +55,7 @@ Los CSV del BTS terminan cada línea con una coma, lo que genera una columna fin
 ### Por qué cumple los requisitos del curso
 | Requisito | Cumplimiento |
 |---|---|
-| Relevancia | Datos reales y oficiales del DOT. **[COMPLETAR: interés del equipo]** |
+| Relevancia | Datos reales y oficiales del DOT. Conocer estadísticas de vuelos de distintas aerolíneas|
 | Estructura (≥ 5 entidades) | Aerolínea, avión (matrícula), aeropuerto, ciudad/estado, vuelo, causa de retraso o cancelación |
 | Tamaño (≥ 5,000 registros) | 591,767 |
 | Atributos (≥ 15) | 109 |
